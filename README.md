@@ -1,8 +1,8 @@
-# Nyahari-Future-Ready-talent
+# Adinath-Future-Ready-talent
 
 Industry Name- Lifestle
 
-Project Title- Nyahari Restaurant 
+Project Title- Adinath Restaurant 
 
 Problem Statement/Opportunity-
 Now a days finding a better place to seat and eat healthy food is very tidious job,to solve that problem I have developed healthy snacks Restaurant website,which has many features like 
@@ -12,7 +12,7 @@ Now a days finding a better place to seat and eat healthy food is very tidious j
 4.contact details page for early communication
 
 
-Project Description-This is a web based application developed for a restaurant named Nayhari.  This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+Project Description-This is a web based application developed for a restaurant named Adinath restaurant.  This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Project Features-
 Interactive and responsive UI.
@@ -29,4 +29,4 @@ Visual Studio Code
 Azure Database For MySQL
 Microsoft Azure Portal
 
-Project Demo URL: https://neha.z13.web.core.windows.net/
+Project Demo URL: https://adinathmorefoodsystem.z13.web.core.windows.net/
